@@ -1,0 +1,13 @@
+c:\users\umut\documents\visual studio 2012\Projects\bayes_paralel\bayes_paralel\bin\Debug\bayes_paralel.exe.config
+c:\users\umut\documents\visual studio 2012\Projects\bayes_paralel\bayes_paralel\bin\Debug\bayes_paralel.exe
+c:\users\umut\documents\visual studio 2012\Projects\bayes_paralel\bayes_paralel\bin\Debug\bayes_paralel.pdb
+c:\users\umut\documents\visual studio 2012\Projects\bayes_paralel\bayes_paralel\obj\Debug\bayes_paralel.csprojResolveAssemblyReference.cache
+c:\users\umut\documents\visual studio 2012\Projects\bayes_paralel\bayes_paralel\obj\Debug\bayes_paralel.anaSayfa.resources
+c:\users\umut\documents\visual studio 2012\Projects\bayes_paralel\bayes_paralel\obj\Debug\bayes_paralel.kanserTahmin.resources
+c:\users\umut\documents\visual studio 2012\Projects\bayes_paralel\bayes_paralel\obj\Debug\bayes_paralel.KategorizeEt.resources
+c:\users\umut\documents\visual studio 2012\Projects\bayes_paralel\bayes_paralel\obj\Debug\bayes_paralel.Properties.Resources.resources
+c:\users\umut\documents\visual studio 2012\Projects\bayes_paralel\bayes_paralel\obj\Debug\bayes_paralel.veriEkleCikar.resources
+c:\users\umut\documents\visual studio 2012\Projects\bayes_paralel\bayes_paralel\obj\Debug\bayes_paralel.csproj.GenerateResource.Cache
+c:\users\umut\documents\visual studio 2012\Projects\bayes_paralel\bayes_paralel\obj\Debug\bayes_paralel.exe
+c:\users\umut\documents\visual studio 2012\Projects\bayes_paralel\bayes_paralel\obj\Debug\bayes_paralel.pdb
+C:\Users\Umut\Documents\Visual Studio 2012\Projects\bayes_paralel\bayes_paralel\obj\Debug\bayes_paralel.yetkiliGiris.resources
